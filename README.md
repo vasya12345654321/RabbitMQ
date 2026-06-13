@@ -15,8 +15,7 @@
 Проверена работа сервиса:
 
 
-sudo systemctl status rabbitmq-server
-```
+
 
 Проверен доступ к веб-интерфейсу RabbitMQ Management.
 
